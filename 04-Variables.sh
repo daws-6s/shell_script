@@ -1,3 +1,6 @@
+#!/bin/bash
+
+##variables and arguments
 PERSON1=$1
 PERSON2=$2
 
