@@ -2,4 +2,4 @@
 
 DATE=$(DATE)
 
-echo "Today date and time is $DATE"
+echo "Today date and time is: ${DATE}"
